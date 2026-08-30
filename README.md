@@ -15,6 +15,7 @@ against what is written here, not against a description of how the process is su
 | **[docs/](docs/)** | The system exactly as it works today. Descriptive only. Nothing in here proposes a change |
 | **[proposals/](proposals/)** | Everything forward looking. Analysis of proposed redesigns, what each part would touch, what a rebuild would automate, what would still need a person, and recommendations |
 | **[reference/](reference/)** | Terminology, and a visual map of the whole process |
+| **[BUILD-STATUS.md](BUILD-STATUS.md)** | What has actually been built in Airtable against the proposal, kept current as pieces get built |
 
 Proposals are deliberately kept out of `docs/` so that the description of the live system stays
 trustworthy. If you are here to plan a change, read `docs/` first and `proposals/` second.
@@ -38,6 +39,7 @@ trustworthy. If you are here to plan a change, read `docs/` first and `proposals
 | Know what the tooling genuinely cannot do | [docs/11-constraints.md](docs/11-constraints.md) |
 | Review known defects | [docs/12-defects.md](docs/12-defects.md) and the [issue tracker](../../issues) |
 | See what a proposed redesign would change, and what a rebuild would automate | [proposals/proposal-analysis.md](proposals/proposal-analysis.md) |
+| See what's actually been built in Airtable so far, and what's still blocked or pending a decision | [BUILD-STATUS.md](BUILD-STATUS.md) |
 
 Terminology matters in this domain and is easy to get wrong.
 Read [reference/glossary.md](reference/glossary.md) before writing anything customer facing.
