@@ -70,7 +70,7 @@ answer — guessing wrong here changes real ratification outcomes.
 - Committee dispatch + reminder automation (depends on the Committee Decision formula above)
 - Certificates/social assets generation (Claude-agent-driven Canva piece)
 - The distance-calculator integration as the single source for both distance figures
-  (separate repo, `rose2023va/wowsa-distance-calculator` — still needs circumnavigation-route
+  (separate repo, `rosevillanuevadev/wowsa-distance-calculator` — still needs circumnavigation-route
   work with Anthony at ZeroSixZero per `proposals/proposal-analysis.md` recommendation 3)
 - The offline-capable observer log form (explicitly unsolved R&D per `proposals/proposal-analysis.md`,
   not a standard build task)

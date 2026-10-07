@@ -149,7 +149,7 @@ What each reviewer submits is entirely judgment, and that is the part that stays
 |---|---|---|
 | 1 | An offline capable observer log form \* | Retyping the log is the largest repeated task in the process. A form is still the right answer, but it has to hold entries on the device and upload when the crew is back in signal. See the note below |
 | 2 | Generate certificates and social assets from the record | Certificates appear nowhere in the proposal |
-| 3 | Make the distance service the single source for both distance figures | Removes the manual measurement, fixes the wrong figure currently quoted to swimmers, and is what a versioned methodology needs to sit on. **In progress.** The service is built; circumnavigation routes still need work with Anthony at ZeroSixZero. https://github.com/rose2023va/wowsa-distance-calculator |
+| 3 | Make the distance service the single source for both distance figures | Removes the manual measurement, fixes the wrong figure currently quoted to swimmers, and is what a versioned methodology needs to sit on. **In progress.** The service is built; circumnavigation routes still need work with Anthony at ZeroSixZero. https://github.com/rosevillanuevadev/wowsa-distance-calculator |
 | 4 | Score evidence completeness on the record | Answers "is this ready for the committee" without anyone opening a folder, and without changing what the forms ask for |
 | 5 | Surface anything sitting too long at one stage | The most common failure today is silent. A case that has not moved is the only signal needed to catch it |
 | 6 | Remind committee members who have not responded | Chasing reviews is currently manual and batched. It should be a nudge per person per swim |
